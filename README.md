@@ -5,7 +5,7 @@ Red Hat Cluster Suite, For RHEL5
 
 Here a script what I used in the past (2013) to manage/handle resources Red Hat Cluster Suite
 
-Please don't forget to change variable as your environment setup
+Please don't forget to change variables as your environment setup
 
 
 # High Availability 
